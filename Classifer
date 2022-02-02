@@ -1,0 +1,781 @@
+pantzgobbler
+#5853
+
+Just a Llama — 11/04/2021
+I'm also done it
+pantzgobbler — 11/04/2021
+kk
+pantzgobbler — 11/04/2021
+I skipped question 3 for MATH 201 were you able to solve
+it
+Just a Llama — 11/04/2021
+yeah its super messy
+1 sec
+Image
+Image
+Not sure if its 100%
+or even good
+pantzgobbler — 11/04/2021
+lol
+ya that question has had me tripping for the last little bit
+pantzgobbler — 11/04/2021
+Your answer was right
+Me and you had the same thing for a
+Just a Llama — 11/04/2021
+thats good
+pantzgobbler — 11/16/2021
+Do you know if the written part of the assignment is up
+Just a Llama — 11/16/2021
+No it's just the mc for now
+They're still marking SA
+pantzgobbler — 11/16/2021
+ohhhh i see
+pantzgobbler — 11/16/2021
+are you done the morning problem by change
+chance*
+Just a Llama — 11/16/2021
+Yeah
+pantzgobbler — 11/16/2021
+Nvm It was a stupid typo
+Just a Llama — 11/16/2021
+Lol gotcha
+I know stupid typos all too well
+pantzgobbler — 11/16/2021
+🤣
+Just a Llama — 11/17/2021
+yo have you done the 209 quiz?
+I'm stuck on q4 and I can't figure it out
+pantzgobbler — 11/17/2021
+Oh im watching professor leanord right now
+imma start the assignment right after this vedio
+Just a Llama — 11/17/2021
+aight
+I finished it
+hmu if you need help
+pantzgobbler — 11/17/2021
+ill send it as soon as im done
+oh ok
+thx
+Just a Llama — 11/17/2021
+no worries
+pantzgobbler — 11/18/2021
+Have you done the written assignment for MATH 209
+Attachment file type: acrobat
+Assignment_5.pdf
+1.48 MB
+Cause I dont understand how to do 1 b) or 3 b)
+Just a Llama — 11/18/2021
+Imagine be honest chief I ain't even look at the paper yet lmao
+I'll let you know tomorrow
+pantzgobbler — 11/18/2021
+kk all g
+Just a Llama — 11/18/2021
+BTW I'm not sure if you saw but the averages are out for the cmput midterm MC by section
+It was 31 out of 50 for engg kids
+pantzgobbler — 11/18/2021
+thats only the MC tho right
+Just a Llama — 11/18/2021
+Yeah
+pantzgobbler — 11/18/2021
+i got 1 above average🤣
+Just a Llama — 11/18/2021
+Lol nice
+Nothing better than seeing you're mark be above the average
+pantzgobbler — 11/18/2021
+ahlieeee
+pantzgobbler — 11/19/2021
+Do you know when assigment 2 is due for CMPUT 274
+Just a Llama — 11/19/2021
+No is it even out?
+Also the 209 written got extend to Sunday I think
+pantzgobbler — 11/19/2021
+oh thats hella blessed
+also do you happen to still have you Assignment 1 python code? Becauase Im tryna see how it gets implimented cause tbh im not entirely sure how classifiers work stilll.
+Just a Llama — 11/19/2021
+Sure I'll send it to you by the end of tonight
+pantzgobbler — 11/19/2021
+kk thx a lot
+pantzgobbler — 11/19/2021
+also i finished the math 209 assignment if you need it
+Just a Llama — 11/19/2021
+Sweet I'll probably hit you up tomorrow
+also heres the code:
+The file's too big to send thru discord
+whats ur email?
+# Copyright 2020-2021 Paul Lu
+import sys
+import copy     # for deepcopy()
+
+Debug = False   # Sometimes, print for debugging.  Overridable on command line.
+InputFilename = "file.input.txt"
+Expand
+ooclassifier.py
+24 KB
+nvm I got it
+pantzgobbler — 11/19/2021
+aizazfire10@gmail.com
+thanks
+Just a Llama — 11/19/2021
+I was just being dumb
+pantzgobbler — 11/19/2021
+oh ok
+bet
+Just a Llama — 11/19/2021
+also the code works perfectly for all test cases; I got all the marks for correctness
+pantzgobbler — 11/19/2021
+bet
+Attachment file type: acrobat
+Assignment_5.pdf
+1.72 MB
+I just want to understand how it works without having to do it so thanks
+Just a Llama — 11/19/2021
+yw
+pantzgobbler — 11/19/2021
+cause he said that the final exam would have questions from the OOclassifyer
+Just a Llama — 11/19/2021
+Yeah
+also thanks for the 209 assignments, its really nice to be able to check your answers
+pantzgobbler — 11/19/2021
+ya those are all right cause ive checked with others
+pantzgobbler — 11/25/2021
+Aye idea when assignment 2 for CMPUT is due yet because i dont attend class.🤣
+Just a Llama — 11/25/2021
+Yeah tbh I haven't attended classes either
+Idk buy ID guess next Monday
+In December
+pantzgobbler — 11/25/2021
+oof
+thats kind of close
+Just a Llama — 11/25/2021
+Yeah
+I'm gonna start this weekend
+Just a Llama — 12/01/2021
+Have you done the 209 quiz yet?
+pantzgobbler — 12/01/2021
+Is that quiz 6 right
+Just a Llama — 12/01/2021
+yeah
+pantzgobbler — 12/01/2021
+Attachment file type: acrobat
+Quiz_6.pdf
+1.88 MB
+Lemme know if you need any particular solutions like off of the website
+Just a Llama — 12/01/2021
+damn thanks
+and will do
+also have you started the huffman?
+pantzgobbler — 12/01/2021
+Its very long im not gonna lie
+Not yet...
+Just a Llama — 12/01/2021
+Quick tip: make sure you read the pdf on eclass
+like the study guide
+pantzgobbler — 12/01/2021
+Im watching lecture 16 right now
+﻿
+# Copyright 2020-2021 Paul Lu
+import sys
+import copy     # for deepcopy()
+
+Debug = False   # Sometimes, print for debugging.  Overridable on command line.
+InputFilename = "file.input.txt"
+TargetWords = [
+        'outside', 'today', 'weather', 'raining', 'nice', 'rain', 'snow',
+        'day', 'winter', 'cold', 'warm', 'snowing', 'out', 'hope', 'boots',
+        'sunny', 'windy', 'coming', 'perfect', 'need', 'sun', 'on', 'was',
+        '-40', 'jackets', 'wish', 'fog', 'pretty', 'summer'
+        ]
+
+
+def open_file(filename=InputFilename):
+    try:
+        f = open(filename, "r")
+        return(f)
+    except FileNotFoundError:
+        # FileNotFoundError is subclass of OSError
+        if Debug:
+            print("File Not Found")
+        return(sys.stdin)
+    except OSError:
+        if Debug:
+            print("Other OS Error")
+        return(sys.stdin)
+
+
+def safe_input(f=None, prompt=""):
+    try:
+        # Case:  Stdin
+        if f is sys.stdin or f is None:
+            line = input(prompt)
+        # Case:  From file
+        else:
+            assert not (f is None)
+            assert (f is not None)
+            line = f.readline()
+            if Debug:
+                print("readline: ", line, end='')
+            if line == "":  # Check EOF before strip()
+                if Debug:
+                    print("EOF")
+                return("", False)
+        return(line.strip(), True)
+    except EOFError:
+        return("", False)
+
+
+class C274:
+    def __init__(self):
+        self.type = str(self.__class__)
+        return
+
+    def __str__(self):
+        return(self.type)
+
+    def __repr__(self):
+        s = "<%d> %s" % (id(self), self.type)
+        return(s)
+
+
+class ClassifyByTarget(C274):
+    def __init__(self, lw=[]):
+        super().__init__() # Call superclass
+        # self.type = str(self.__class__)
+        self.allWords = 0
+        self.theCount = 0
+        self.nonTarget = []
+        self.set_target_words(lw)
+        self.initTF()
+        return
+
+    def initTF(self):
+        self.TP = 0
+        self.FP = 0
+        self.TN = 0
+        self.FN = 0
+        return
+
+    # FIXME:  Incomplete.  Finish get_TF() and other getters/setters.
+    def get_TF(self):
+        return(self.TP, self.FP, self.TN, self.FN)
+
+    # TODO: Could use Use Python properties
+    #     https://www.python-course.eu/python3_properties.php
+    def set_target_words(self, lw):
+        # Could also do self.targetWords = lw.copy().  Thanks, TA Jason Cannon
+        self.targetWords = copy.deepcopy(lw)
+        return
+
+    def get_target_words(self):
+        return(self.targetWords)
+
+    def get_allWords(self):
+        return(self.allWords)
+
+    def incr_allWords(self):
+        self.allWords += 1
+        return
+
+    def get_theCount(self):
+        return(self.theCount)
+
+    def incr_theCount(self):
+        self.theCount += 1
+        return
+
+    def get_nonTarget(self):
+        return(self.nonTarget)
+
+    def add_nonTarget(self, w):
+        self.nonTarget.append(w)
+        return
+
+    def print_config(self,printSorted=True):
+        print("-------- Print Config --------")
+        ln = len(self.get_target_words())
+        print("TargetWords (%d): " % ln, end='')
+        if printSorted:
+            print(sorted(self.get_target_words()))
+        else:
+            print(self.get_target_words())
+        return
+
+    def print_run_info(self,printSorted=True):
+        print("-------- Print Run Info --------")
+        print("All words:%3s. " % self.get_allWords(), end='')
+        print(" Target words:%3s" % self.get_theCount())
+        print("Non-Target words (%d): " % len(self.get_nonTarget()), end='')
+        if printSorted:
+            print(sorted(self.get_nonTarget()))
+        else:
+            print(self.get_nonTarget())
+        return
+
+    def print_confusion_matrix(self, targetLabel, doKey=False, tag=""):
+        assert (self.TP + self.TP + self.FP + self.TN) > 0
+        print(tag+"-------- Confusion Matrix --------")
+        print(tag+"%10s | %13s" % ('Predict', 'Label'))
+        print(tag+"-----------+----------------------")
+        print(tag+"%10s | %10s %10s" % (' ', targetLabel, 'not'))
+        if doKey:
+            print(tag+"%10s | %10s %10s" % ('', 'TP   ', 'FP   '))
+        print(tag+"%10s | %10d %10d" % (targetLabel, self.TP, self.FP))
+        if doKey:
+            print(tag+"%10s | %10s %10s" % ('', 'FN   ', 'TN   '))
+        print(tag+"%10s | %10d %10d" % ('not', self.FN, self.TN))
+        return
+
+    def eval_training_set(self, tset, targetLabel, lines=True):
+        print("-------- Evaluate Training Set --------")
+        self.initTF()
+        # zip is good for parallel arrays and iteration
+        z = zip(tset.get_instances(), tset.get_lines())
+        for ti, w in z:
+            lb = ti.get_label()
+            cl = ti.get_class()
+            if lb == targetLabel:
+                if cl:
+                    self.TP += 1
+                    outcome = "TP"
+                else:
+                    self.FN += 1
+                    outcome = "FN"
+            else:
+                if cl:
+                    self.FP += 1
+                    outcome = "FP"
+                else:
+                    self.TN += 1
+                    outcome = "TN"
+            explain = ti.get_explain()
+            # Format nice output
+            if lines:
+                w = ' '.join(w.split())
+            else:
+                w = ' '.join(ti.get_words())
+                w = lb + " " + w
+
+            # TW = testing bag of words words (kinda arbitrary)
+            print("TW %s: ( %10s) %s" % (outcome, explain, w))
+            if Debug:
+                print("-->", ti.get_words())
+        self.print_confusion_matrix(targetLabel)
+        return
+
+    def classify_by_words(self, ti, update=False, tlabel="last"):
+        inClass = False
+        evidence = ''
+        lw = ti.get_words()
+        for w in lw:
+            if update:
+                self.incr_allWords()
+            if w in self.get_target_words():    # FIXME Write predicate
+                inClass = True
+                if update:
+                    self.incr_theCount()
+                if evidence == '':
+                    evidence = w            # FIXME Use first word, but change
+            elif w != '':
+                if update and (w not in self.get_nonTarget()):
+                    self.add_nonTarget(w)
+        if evidence == '':
+            evidence = '#negative'
+        if update:
+            ti.set_class(inClass, tlabel, evidence)
+        return(inClass, evidence)
+
+    # Could use a decorator, but not now
+    def classify(self, ti, update=False, tlabel="last"):
+        cl, e = self.classify_by_words(ti, update, tlabel)
+        return(cl, e)
+
+    def classify_all(self, ts, update=True, tlabel="classify_all"):
+        for ti in ts.get_instances():
+            cl, e = self.classify(ti, update=update, tlabel=tlabel)
+        return
+
+
+class TrainingInstance(C274):
+    def __init__(self):
+        super().__init__()  # Call superclass
+        # self.type = str(self.__class__)
+        self.inst = dict()
+        # FIXME:  Get rid of dict, and use attributes
+        self.inst["label"] = "N/A"      # Class, given by oracle
+        self.inst["words"] = []         # Bag of words
+        self.inst["class"] = ""         # Class, by classifier
+        self.inst["explain"] = ""       # Explanation for classification
+        self.inst["experiments"] = dict()   # Previous classifier runs
+        return
+
+    def get_label(self):
+        return(self.inst["label"])
+
+    def get_words(self):
+        return(self.inst["words"])
+
+    def set_class(self, theClass, tlabel="last", explain=""):
+        # tlabel = tag label
+        self.inst["class"] = theClass
+        self.inst["experiments"][tlabel] = theClass
+        self.inst["explain"] = explain
+        return
+
+    def get_class_by_tag(self, tlabel):             # tlabel = tag label
+        cl = self.inst["experiments"].get(tlabel)
+        if cl is None:
+            return("N/A")
+        else:
+            return(cl)
+
+    def get_explain(self):
+        cl = self.inst.get("explain")
+        if cl is None:
+            return("N/A")
+        else:
+            return(cl)
+
+    def get_class(self):
+        return self.inst["class"]
+
+    def process_input_line(
+                self, line, run=None,
+                tlabel="read", inclLabel=False
+            ):
+        for w in line.split():
+            if w[0] == "#":
+                self.inst["label"] = w
+                if inclLabel:
+                    self.inst["words"].append(w)
+            else:
+                self.inst["words"].append(w)
+
+        if not (run is None):
+            cl, e = run.classify(self, update=True, tlabel=tlabel)
+        return(self)
+
+    def preprocess_words(self, mode=""):
+        """
+        Arguments:
+            mode(string): The mode the list of words will be analyzed in, has to be one of three options: keep-symbols,
+            keep-digits, keep-stops.
+
+        Returns:
+            The processed words of the training instance that this method performed on.
+        """
+        # The following dictionaries store strings that will be used to process the words.
+        disallowed_words = {
+            "DisallowedWords": ["i", "me", "my", "myself", "we", "our", "ours", "ourselves", "you", "your",
+                                "yours", "yourself", "yourselves", "he", "him", "his", "himself", "she", "her",
+                                "hers", "herself", "it", "its", "itself", "they", "them", "their", "theirs",
+                                "themselves", "what", "which", "who", "whom", "this", "that", "these", "those",
+                                "am", "is", "are", "was", "were", "be", "been", "being", "have", "has", "had",
+                                "having", "do", "does", "did", "doing", "a", "an", "the", "and", "but", "if",
+                                "or", "because", "as", "until", "while", "of", "at", "by", "for", "with",
+                                "about", "against", "between", "into", "through", "during", "before", "after",
+                                "above", "below", "to", "from", "up", "down", "in", "out", "on", "off", "over",
+                                "under", "again", "further", "then", "once", "here", "there", "when", "where",
+                                "why", "how", "all", "any", "both", "each", "few", "more", "most", "other",
+                                "some", "such", "no", "nor", "not", "only", "own", "same", "so", "than",
+                                "too", "very", "s", "t", "can", "will", "just", "don", "should", "now"]
+        }
+        allowed_characters_and_numbers = {
+            "Characters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r",
+                           "s", "t", "u", "v", "w", "x", "y", "z", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0"]
+        }
+        numbers = {
+            "Numbers": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"]
+        }
+        return_words = []
+        text_list = list(" ".join(self.inst["words"]).lower().split()) # lowercases all words
+        # If the mode is not on keep-symbols, this for loop removes all symbols from the words
+        if mode != "keep-symbols":
+            for word in text_list:
+                char_list = list(word)
+                for i in range(len(char_list)):
+                    if char_list[i] not in allowed_characters_and_numbers["Characters"]:
+                        char_list[i] = ""
+                return_words.append("".join(char_list))
+        else:
+            return_words = text_list
+        while "" in return_words:  # Removes elements from a list that no longer have any characters
+            return_words.remove("")
+        # If the mode is not on keep-digits, loops through each of the words, checking to see if any of the remaining
+        # words are full numbers, if they are, they get deleted. If a word contains a number, the number will get
+        # deleted.
+        if mode != "keep-digits":
+            for i in range(len(return_words)):
+                is_num = False
+                char_list = list(return_words[i])
+                if char_list[0] in numbers["Numbers"]:
+                    is_num = True
+                    for o in range(len(char_list)):
+                        if char_list[o] not in numbers["Numbers"]:
+                            is_num = False
+                            break
+                if is_num is False:
+                    for o in range(len(char_list)):
+                        if char_list[o] in numbers["Numbers"]:
+                            char_list[o] = ""
+                return_words[i] = "".join(char_list)
+            while "" in return_words:  # Removes elements from a list that no longer have any characters
+                return_words.remove("")
+        # If the mode is not on keep-stops, loops through simplified words and removes all stop words.
+        if mode != "keep-stops":
+            for i in range(len(return_words)):
+                if return_words[i] in disallowed_words["DisallowedWords"]:
+                    return_words[i] = ""
+            while "" in return_words:  # Removes elements from a list that no longer have any characters
+                return_words.remove("")
+        self.inst["words"] = return_words  # Changes the training instance's words to the processed words
+        return
+
+
+class TrainingSet(C274):
+    def __init__(self):
+        super().__init__() # Call superclass
+        # self.type = str(self.__class__)
+        self.inObjList = []     # Unparsed lines, from training set
+        self.inObjHash = []     # Parsed lines, in dictionary/hash
+        self.variable = dict()  # NEW: Configuration/environment variables
+        return
+
+    def set_env_variable(self, k, v):
+        self.variable[k] = v
+        return
+
+    def get_env_variable(self, k):
+        if k in self.variable:
+            return(self.variable[k])
+        else:
+            return ""
+
+    def inspect_comment(self, line):
+        if len(line) > 1 and line[1] != ' ':      # Might be variable
+            v = line.split(maxsplit=1)
+            self.set_env_variable(v[0][1:], v[1])
+        return
+
+    def get_instances(self):
+        return(self.inObjHash)      # FIXME Should protect this more
+
+    def get_lines(self):
+        return(self.inObjList)      # FIXME Should protect this more
+
+    def print_training_set(self):
+        print("-------- Print Training Set --------")
+        z = zip(self.inObjHash, self.inObjList)
+        for ti, w in z:
+            lb = ti.get_label()
+            cl = ti.get_class_by_tag("last")     # Not used
+            explain = ti.get_explain()
+            print("( %s) (%s) %s" % (lb, explain, w))
+            if Debug:
+                print("-->", ti.get_words())
+        return
+
+    def preprocess(self, mode=''):
+        """
+        Arguments:
+            mode: The mode the training instances will be analyzed in, has to be one of three options: keep-symbols,
+            keep-digits, keep-stops.
+
+        Returns:
+            The object's training instances all processed according to the specifications provided.
+        """
+        # Loops over each training instance, passing it as well as the mode to preprocess_words
+        for ti in self.inObjHash:
+            ti.preprocess_words(mode)
+        return
+
+    def process_input_stream(self, inFile, run=None):
+        assert not (inFile is None), "Assume valid file object"
+        cFlag = True
+        while cFlag:
+            line, cFlag = safe_input(inFile)
+            if not cFlag:
+                break
+            assert cFlag, "Assume valid input hereafter"
+
+            if len(line) == 0:   # Blank line.  Skip it.
+                continue
+
+            # Check for comments *and* environment variables
+            if line[0] == '%':  # Comments must start with % and variables
+                self.inspect_comment(line)
+                continue
+
+            # Save the training data input, by line
+            self.inObjList.append(line)
+            # Save the training data input, after parsing
+            ti = TrainingInstance()
+            ti.process_input_line(line, run=run)
+            self.inObjHash.append(ti)
+        return
+
+    def return_nfolds(self, num=3):
+        """
+        Arguments:
+            num (int): The number of folds (or groups) that the training set will be split into.
+
+        Returns:
+            return_obj (list of objects): This list of objects will contain all the training instances of the
+        object that the method performed on. The training instances are split round robin style into the groups. For
+        example: (A,B,C,D,E) into 3 new objects ---> [(A,D), (B,E), (C)]
+        """
+        # Initializes various variables that will be used
+        instance = 0
+        folds = []
+        current_group = 0
+        group = 0
+        return_obj = []
+        for fold in range(num):  # Creates the appropriate amount of groups
+            folds.append([self.inObjList[instance]])
+            instance += 1
+        for inst in self.inObjList[num:]:  # Assigns the training instances round robin style to each group
+            folds[current_group].append(inst)
+            current_group += 1
+            if current_group == num:
+                current_group = 0
+        # At this point, all training instances are split into n groups using round robin method
+        # Copies the attributes of the training instances to the new objects which are created through looping
+        for new_obj in range(num):
+            current_fold = folds[new_obj]
+            new_obj = TrainingSet()
+            for ti in current_fold:
+                index = self.inObjList.index(ti)
+                new_obj.inObjList.append(copy.deepcopy(self.inObjList[index]))
+                new_obj.inObjHash.append(copy.deepcopy(self.inObjHash[index]))
+            return_obj.append(new_obj)
+            group += 1
+        return return_obj
+
+    def copy(self):
+        """
+        Returns:
+            A new TrainingSet object that has the same training instances as the object that this method performed
+        on.
+        """
+        # Creates new object
+        new_obj = TrainingSet()
+        # Loops through the given object and copies the attributes to the new object
+        for index in range(len(self.inObjHash)):
+            new_obj.inObjList.append(copy.deepcopy(self.inObjList[index]))
+            new_obj.inObjHash.append(copy.deepcopy(self.inObjHash[index]))
+        return new_obj
+
+    def add_training_set(self, tset):
+        """
+        Arguments:
+            tset (object of class TrainingSet): This object's training instances will be added to the object that
+        this method is being performed on
+
+        Returns:
+            The object that this method acted on will have the training instances of tset appended to the end of
+        its own.
+        """
+
+        for index in range(len(tset.inObjHash)):
+            self.inObjList.append(copy.deepcopy(tset.inObjList[index]))
+            self.inObjHash.append(copy.deepcopy(tset.inObjHash[index]))
+        return
+
+
+class ClassifyByTopN(ClassifyByTarget):
+
+    def target_top_n(self, tset, num=5, label=''):
+        """
+        Arguments:
+            tset(object of class TrainingSet): This object's training instances will be analyzed in order to construct
+            the new target words
+            num (int): The amount of target words to be selected
+            label (string): Decides which word should be counted based on the label it has
+
+        Returns:
+            The target words of the object this method performed on will be updated according to specifications provided
+            (tset & num & label)
+        """
+        # Create empty dictionary to be filled with tracked words
+        words = {
+
+        }
+        for obj in tset.inObjHash:  # Looks at each of the objects in tset
+            if obj.get_label() == label:
+                for word in obj.get_words():  # Looks at each word in the list and counts its frequency
+                    if word in words.keys():
+                        words[word] += 1
+                    else:
+                        words[word] = 1
+
+        # Initializes the new training set
+        new_tset = []
+        # Creates a descending list based on the value of each dictionary key
+        sorted_tuple = sorted(words.items(), key=lambda item: item[1], reverse=True)
+        # Creates a new tuple with the desired amount of training words
+        new_tuple = sorted_tuple[:num]
+        # Assumes there is a tie in frequency, checks, appending any tuple that has the same amount of occurrences
+        tie = True
+        while tie is True:
+            if sorted_tuple[num][1] == new_tuple[num - 1][1] and sorted_tuple[num][0] != new_tuple[num - 1][0]:
+                new_tuple.append(sorted_tuple[num])
+                if num + 1 != len(sorted_tuple):  # In order to not index out of range
+                    num += 1
+                else:
+                    break
+            else:
+                tie = False
+        # Constructs the new training set by extracting the words from the descending tuples
+        for tuple_pair in new_tuple:
+            new_tset.append(tuple_pair[0])
+        self.set_target_words(new_tset)
+        return
+
+# Very basic test of functionality
+def basemain():
+    global Debug
+    tset = TrainingSet()
+    run1 = ClassifyByTarget(TargetWords)
+    if Debug:
+        print(run1)     # Just to show __str__
+        lr = [run1]
+        print(lr)       # Just to show __repr__
+
+    argc = len(sys.argv)
+    if argc == 1:   # Use stdin, or default filename
+        inFile = open_file()
+        assert not (inFile is None), "Assume valid file object"
+        tset.process_input_stream(inFile, run1)
+        inFile.close()
+    else:
+        for f in sys.argv[1:]:
+            # Allow override of Debug from command line
+            if f == "Debug":
+                Debug = True
+                continue
+            if f == "NoDebug":
+                Debug = False
+                continue
+
+            inFile = open_file(f)
+            assert not (inFile is None), "Assume valid file object"
+            tset.process_input_stream(inFile, run1)
+            inFile.close()
+
+    print("--------------------------------------------")
+    plabel = tset.get_env_variable("pos-label")
+    print("pos-label: ", plabel)
+    print("NOTE: Not using any target words from the file itself")
+    print("--------------------------------------------")
+
+    if Debug:
+        tset.print_training_set()
+    run1.print_config()
+    run1.print_run_info()
+    run1.eval_training_set(tset, plabel)
+
+    return
+
+
+if __name__ == "__main__":
+    basemain()
+ooclassifier.py
+24 KB
